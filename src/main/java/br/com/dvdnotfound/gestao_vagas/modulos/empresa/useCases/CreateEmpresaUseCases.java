@@ -5,6 +5,7 @@ import br.com.dvdnotfound.gestao_vagas.modulos.empresa.entities.EmpresaEntity;
 import br.com.dvdnotfound.gestao_vagas.modulos.empresa.repositories.EmpresaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
+//teste
 public class CreateEmpresaUseCases {
 
     @Autowired
